@@ -2,7 +2,7 @@
 
 #BME280エラーチェック
 #GPIO21の初期化
-#copyright osa
+#copyright o.
 
 echo 21 > /sys/class/gpio/unexport
 echo 21 > /sys/class/gpio/export
